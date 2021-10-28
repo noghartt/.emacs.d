@@ -1,1 +1,1 @@
-# Resilience - My own `.emacs.d` config
+# My own `.emacs.d` config
