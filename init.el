@@ -35,6 +35,7 @@
 (require 'which-key)
 (require 'evil)
 (require 'doom-modeline)
+(require 'dashboard)
 
 (setq inhibit-startup-message t)
 
