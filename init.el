@@ -33,6 +33,7 @@
 ;; See details of some implementation of this here:
 ;; https://github.com/hlissner/doom-emacs/blob/3bd358dc36d6c7397772b1e17772e44138c380d3/core/core-modules.el
 (require 'which-key)
+(require 'evil)
 
 (setq inhibit-startup-message t)
 
