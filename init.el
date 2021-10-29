@@ -19,7 +19,6 @@
 
 ;;;; Bootstrap Packages
 
-
 (defvar emacs-dir (file-name-directory load-file-name))
 (defvar emacs-core-dir (expand-file-name "core" emacs-dir))
 (defvar emacs-modules-dir (expand-file-name "modules" emacs-dir))
