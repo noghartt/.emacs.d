@@ -25,5 +25,11 @@
       (eval-print-last-sexp)))
   (load bootstrap-file nil 'nomessage))
 
+;; TODO: I don't know if these 3 lines below should stay here
+;; Check if it's correctly added
+(straight-use-package 'use-package)
+(setq straight-use-package-by-default t)
+(require 'use-package)
+
 (provide 'core-packages)
 ;;; core-packages.el ends here
